@@ -1,0 +1,33 @@
+{
+  "name": "process-street-angularjs-test",
+  "version": "1.0.0",
+  "description": "This is the app from process streeet by Oscar Jimenez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularJS",
+    "frontend",
+    "process.st",
+    "test"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "blueimp-file-upload-node": "^2.1.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
+  },
+  "author": "Oscar Jimenez",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}

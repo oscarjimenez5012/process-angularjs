@@ -1,0 +1,22 @@
+{
+  "name": "process-street-angularjs-test",
+  "description": "This is the app from process streeet by Oscar Jimenez",
+  "main": "index.js",
+  "authors": [
+    "Oscar Jimenez"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularJS",
+    "frontend",
+    "process.st",
+    "test"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery-ui": "^1.12.1",
+    "bootstrap": "^4.1.0",
+    "blueimp-file-upload": "^9.21.0"
+  }
+}
